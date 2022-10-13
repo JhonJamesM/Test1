@@ -9,8 +9,8 @@ def main():
 
     menu()
     
-    posX = 0
-    posY = 0
+    posX = x = x+1
+    posY = y = y+1
 
     sortir=False
     while not sortir:
